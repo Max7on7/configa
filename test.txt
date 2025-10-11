@@ -1,0 +1,10 @@
+# Тестирование VFS
+ls
+cd root
+ls
+cd hobbies
+ls
+cat poem.docx
+rev poem.docx
+date
+chown Alexey poem.docx
